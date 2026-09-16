@@ -1,0 +1,32 @@
+docs/reference/changelog-r2025.md
+  s_ef7452d333de59::t_980fac01f9a060 8
+projects/robots/onerobotics/a1/protos/docs/OneRoboticsA1.md
+  s_ef7452d333de59::t_980fac01f9a060 1-73
+projects/robots/onerobotics/a1/protos/OneRoboticsA1.proto
+  s_ef7452d333de59::t_21b8c19678ff72 79,136,193
+projects/robots/onerobotics/a1/worlds/onerobotics_a1.wbt
+  s_ef7452d333de59::t_980fac01f9a060 1-50
+projects/robots/onerobotics/a1/worlds/.onerobotics_a1.wbproj
+  s_ef7452d333de59::t_980fac01f9a060 1,5-7,9
+  s_ef7452d333de59::t_299617841a6d3d 2-4,8
+projects/robots/onerobotics/a1/controllers/onerobotics_a1_demo/onerobotics_a1_demo.py
+  s_ef7452d333de59::t_980fac01f9a060 1-39
+projects/robots/onerobotics/a1/webots.yaml
+  s_ef7452d333de59::t_980fac01f9a060 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "375548f69d92ddb490685e60a562364874d75fd7",
+  "prompts": {},
+  "sessions": {
+    "s_ef7452d333de59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0230d-de1f-7711-9332-d9e46b69924b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "uniquemelody <200471066+uniquemelody@users.noreply.github.com>"
+    }
+  }
+}
