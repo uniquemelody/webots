@@ -1,0 +1,19 @@
+projects/robots/onerobotics/a1/protos/OneRoboticsA1.proto
+  s_ef7452d333de59::t_1c518a5fe21cef 1-432
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6cb6ed8dd22e3f2015af87e31acd182f2652d0da",
+  "prompts": {},
+  "sessions": {
+    "s_ef7452d333de59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0230d-de1f-7711-9332-d9e46b69924b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "uniquemelody <200471066+uniquemelody@users.noreply.github.com>"
+    }
+  }
+}
